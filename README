@@ -1,0 +1,9 @@
+# Installs gaming on Ubuntu
+
+Installs:
+ - Wine staging
+ - Steam
+ - Lutris
+
+Does not install graphics drivers
+
